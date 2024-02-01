@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ETL processes, data modelling and data warehousing using AWS<br>👯 I’m looking to collaborate on data related projects<br>🤝 I’m looking for help with apache airflow <br>🌱 I’m currently learning databricks and aws<br>💬 Ask me about data engineering<br>⚡ Fun fact: I code better surrounded by music!
+🔭 I’m currently working on ETL processes, data modelling and data warehousing using AWS<br>👯 I’m looking to collaborate on data related projects<br>🤝 I’m looking for help with databricks <br>🌱 I’m currently learning databricks and aws<br>💬 Ask me about data engineering<br>⚡ Fun fact: I code better surrounded by music!
 
 
 ## 🌐 Socials:
